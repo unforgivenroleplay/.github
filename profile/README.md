@@ -2,7 +2,7 @@
 
 Welcome to the UnforgivenRP Organization 
 
-This GitHub Organization has been setup to allow the development team to collaberate on the Live and Development servers for UnforgivenRP and is a centralized location for tracking issues, bugs, planning future projects and keeping everyone in the loop,
+This GitHub Organization has been setup to allow the development team to collaborate on the Live and Development servers for UnforgivenRP and is a centralized location for tracking issues, bugs, planning future projects and keeping everyone in the loop,
 
 At this time our source code is private, and you will only be able to see public repository's or other resources we may or may not require to use, like CitizenFX modules.
 <!--
